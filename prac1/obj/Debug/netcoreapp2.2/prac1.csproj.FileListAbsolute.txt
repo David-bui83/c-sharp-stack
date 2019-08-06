@@ -1,0 +1,11 @@
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/prac1/bin/Debug/netcoreapp2.2/prac1.deps.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/prac1/bin/Debug/netcoreapp2.2/prac1.runtimeconfig.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/prac1/bin/Debug/netcoreapp2.2/prac1.runtimeconfig.dev.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/prac1/bin/Debug/netcoreapp2.2/prac1.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/prac1/bin/Debug/netcoreapp2.2/prac1.pdb
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/prac1/obj/Debug/netcoreapp2.2/prac1.csprojAssemblyReference.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/prac1/obj/Debug/netcoreapp2.2/prac1.csproj.CoreCompileInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/prac1/obj/Debug/netcoreapp2.2/prac1.AssemblyInfoInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/prac1/obj/Debug/netcoreapp2.2/prac1.AssemblyInfo.cs
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/prac1/obj/Debug/netcoreapp2.2/prac1.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/prac1/obj/Debug/netcoreapp2.2/prac1.pdb

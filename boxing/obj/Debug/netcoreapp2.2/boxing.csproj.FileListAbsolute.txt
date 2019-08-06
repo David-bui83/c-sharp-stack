@@ -1,0 +1,11 @@
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/boxing/bin/Debug/netcoreapp2.2/boxing.deps.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/boxing/bin/Debug/netcoreapp2.2/boxing.runtimeconfig.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/boxing/bin/Debug/netcoreapp2.2/boxing.runtimeconfig.dev.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/boxing/bin/Debug/netcoreapp2.2/boxing.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/boxing/bin/Debug/netcoreapp2.2/boxing.pdb
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/boxing/obj/Debug/netcoreapp2.2/boxing.csprojAssemblyReference.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/boxing/obj/Debug/netcoreapp2.2/boxing.csproj.CoreCompileInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/boxing/obj/Debug/netcoreapp2.2/boxing.AssemblyInfoInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/boxing/obj/Debug/netcoreapp2.2/boxing.AssemblyInfo.cs
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/boxing/obj/Debug/netcoreapp2.2/boxing.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/boxing/obj/Debug/netcoreapp2.2/boxing.pdb

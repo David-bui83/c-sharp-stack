@@ -1,0 +1,11 @@
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/basic/bin/Debug/netcoreapp2.2/basic.deps.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/basic/bin/Debug/netcoreapp2.2/basic.runtimeconfig.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/basic/bin/Debug/netcoreapp2.2/basic.runtimeconfig.dev.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/basic/bin/Debug/netcoreapp2.2/basic.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/basic/bin/Debug/netcoreapp2.2/basic.pdb
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/basic/obj/Debug/netcoreapp2.2/basic.csprojAssemblyReference.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/basic/obj/Debug/netcoreapp2.2/basic.csproj.CoreCompileInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/basic/obj/Debug/netcoreapp2.2/basic.AssemblyInfoInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/basic/obj/Debug/netcoreapp2.2/basic.AssemblyInfo.cs
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/basic/obj/Debug/netcoreapp2.2/basic.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/basic/obj/Debug/netcoreapp2.2/basic.pdb

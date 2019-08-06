@@ -1,0 +1,11 @@
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/firstCSharp/bin/Debug/netcoreapp2.2/firstCSharp.deps.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/firstCSharp/bin/Debug/netcoreapp2.2/firstCSharp.runtimeconfig.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/firstCSharp/bin/Debug/netcoreapp2.2/firstCSharp.runtimeconfig.dev.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/firstCSharp/bin/Debug/netcoreapp2.2/firstCSharp.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/firstCSharp/bin/Debug/netcoreapp2.2/firstCSharp.pdb
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/firstCSharp/obj/Debug/netcoreapp2.2/firstCSharp.csprojAssemblyReference.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/firstCSharp/obj/Debug/netcoreapp2.2/firstCSharp.csproj.CoreCompileInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/firstCSharp/obj/Debug/netcoreapp2.2/firstCSharp.AssemblyInfoInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/firstCSharp/obj/Debug/netcoreapp2.2/firstCSharp.AssemblyInfo.cs
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/firstCSharp/obj/Debug/netcoreapp2.2/firstCSharp.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/firstCSharp/obj/Debug/netcoreapp2.2/firstCSharp.pdb

@@ -1,0 +1,11 @@
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/puzzles/bin/Debug/netcoreapp2.2/puzzles.deps.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/puzzles/bin/Debug/netcoreapp2.2/puzzles.runtimeconfig.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/puzzles/bin/Debug/netcoreapp2.2/puzzles.runtimeconfig.dev.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/puzzles/bin/Debug/netcoreapp2.2/puzzles.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/puzzles/bin/Debug/netcoreapp2.2/puzzles.pdb
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/puzzles/obj/Debug/netcoreapp2.2/puzzles.csprojAssemblyReference.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/puzzles/obj/Debug/netcoreapp2.2/puzzles.csproj.CoreCompileInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/puzzles/obj/Debug/netcoreapp2.2/puzzles.AssemblyInfoInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/puzzles/obj/Debug/netcoreapp2.2/puzzles.AssemblyInfo.cs
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/puzzles/obj/Debug/netcoreapp2.2/puzzles.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/puzzles/obj/Debug/netcoreapp2.2/puzzles.pdb

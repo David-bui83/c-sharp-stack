@@ -1,0 +1,11 @@
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/collections/bin/Debug/netcoreapp2.2/collections.deps.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/collections/bin/Debug/netcoreapp2.2/collections.runtimeconfig.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/collections/bin/Debug/netcoreapp2.2/collections.runtimeconfig.dev.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/collections/bin/Debug/netcoreapp2.2/collections.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/collections/bin/Debug/netcoreapp2.2/collections.pdb
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/collections/obj/Debug/netcoreapp2.2/collections.csprojAssemblyReference.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/collections/obj/Debug/netcoreapp2.2/collections.csproj.CoreCompileInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/collections/obj/Debug/netcoreapp2.2/collections.AssemblyInfoInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/collections/obj/Debug/netcoreapp2.2/collections.AssemblyInfo.cs
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/collections/obj/Debug/netcoreapp2.2/collections.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/collections/obj/Debug/netcoreapp2.2/collections.pdb
