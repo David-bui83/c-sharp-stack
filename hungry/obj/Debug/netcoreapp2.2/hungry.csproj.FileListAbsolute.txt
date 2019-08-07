@@ -1,0 +1,11 @@
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/hungry/bin/Debug/netcoreapp2.2/hungry.deps.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/hungry/bin/Debug/netcoreapp2.2/hungry.runtimeconfig.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/hungry/bin/Debug/netcoreapp2.2/hungry.runtimeconfig.dev.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/hungry/bin/Debug/netcoreapp2.2/hungry.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/hungry/bin/Debug/netcoreapp2.2/hungry.pdb
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/hungry/obj/Debug/netcoreapp2.2/hungry.csprojAssemblyReference.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/hungry/obj/Debug/netcoreapp2.2/hungry.csproj.CoreCompileInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/hungry/obj/Debug/netcoreapp2.2/hungry.AssemblyInfoInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/hungry/obj/Debug/netcoreapp2.2/hungry.AssemblyInfo.cs
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/hungry/obj/Debug/netcoreapp2.2/hungry.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/hungry/obj/Debug/netcoreapp2.2/hungry.pdb

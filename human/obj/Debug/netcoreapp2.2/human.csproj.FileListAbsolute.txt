@@ -1,0 +1,11 @@
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/human/bin/Debug/netcoreapp2.2/human.deps.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/human/bin/Debug/netcoreapp2.2/human.runtimeconfig.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/human/bin/Debug/netcoreapp2.2/human.runtimeconfig.dev.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/human/bin/Debug/netcoreapp2.2/human.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/human/bin/Debug/netcoreapp2.2/human.pdb
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/human/obj/Debug/netcoreapp2.2/human.csprojAssemblyReference.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/human/obj/Debug/netcoreapp2.2/human.csproj.CoreCompileInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/human/obj/Debug/netcoreapp2.2/human.AssemblyInfoInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/human/obj/Debug/netcoreapp2.2/human.AssemblyInfo.cs
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/human/obj/Debug/netcoreapp2.2/human.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/human/obj/Debug/netcoreapp2.2/human.pdb

@@ -23,7 +23,7 @@ namespace basic
             EliminateNegative(myNumArr2);
             MinMaxAverage(myNumArr);
             ShiftValues(myNumArr);
-            
+
             int[] myNumArr3 = {1,2,3,-1,4,5};
             foreach(var num in NumToString(myNumArr3)){
                 if(num is int){
@@ -151,15 +151,24 @@ namespace basic
         }
         // Number to String
         public static object[] NumToString(int[] numbers){
-            List<object> newNumbers = new List<object>();
-            for(int i = 0; i<numbers.Length; i++){
-                if(numbers[i]<0){
-                    newNumbers.Add("Dojo");
+            // List<object> newNumbers = new List<object>();
+            // for(int i = 0; i<numbers.Length; i++){
+            //     if(numbers[i]<0){
+            //         newNumbers.Add("Dojo");
+            //     }else{
+            //         newNumbers.Add(numbers[i]);
+            //     }
+            // }
+            // return newNumbers.ToArray();
+            object[] newNumbers = new object[numbers.Length];
+            for(int i  = 0; i< numbers.Length; i++){
+                if(numbers[i] < 0){
+                    newNumbers[i] = "Dojo";
                 }else{
-                    newNumbers.Add(numbers[i]);
+                    newNumbers[i] = numbers[i];
                 }
             }
-            return newNumbers.ToArray();
+            return newNumbers;
         }
     }
 }
