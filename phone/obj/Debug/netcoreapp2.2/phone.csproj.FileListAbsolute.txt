@@ -1,0 +1,11 @@
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/phone/bin/Debug/netcoreapp2.2/phone.deps.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/phone/bin/Debug/netcoreapp2.2/phone.runtimeconfig.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/phone/bin/Debug/netcoreapp2.2/phone.runtimeconfig.dev.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/phone/bin/Debug/netcoreapp2.2/phone.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/phone/bin/Debug/netcoreapp2.2/phone.pdb
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/phone/obj/Debug/netcoreapp2.2/phone.csprojAssemblyReference.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/phone/obj/Debug/netcoreapp2.2/phone.csproj.CoreCompileInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/phone/obj/Debug/netcoreapp2.2/phone.AssemblyInfoInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/phone/obj/Debug/netcoreapp2.2/phone.AssemblyInfo.cs
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/phone/obj/Debug/netcoreapp2.2/phone.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/phone/obj/Debug/netcoreapp2.2/phone.pdb
