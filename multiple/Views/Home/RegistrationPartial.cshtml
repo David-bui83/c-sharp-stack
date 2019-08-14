@@ -1,0 +1,29 @@
+@model Registration
+<form action="/registration" method="POST">
+  <span class="text-danger" asp-validation-for="FirstName"></span>
+  <div class="form-group">
+      <label for="FirstName">First Name</label>
+      <input type="text" class="form-control" id="FirstName" name="FirstName" placeholder="Enter first name">
+  </div>
+  <span class="text-danger" asp-validation-for="LastName"></span>
+  <div class="form-group">
+      <label for="LastName">Last Name</label>
+      <input type="text" class="form-control" id="LastName" name="LastName" placeholder="Enter last name">
+  </div>
+  <span class="text-danger" asp-validation-for="Email"></span>
+  <div class="form-group">
+      <label for="Email">Email address</label>
+      <input type="text" class="form-control" id="Email" name="Email" placeholder="Enter email address">
+  </div>
+  <span class="text-danger" asp-validation-for="Password"></span>
+  <div class="form-group">
+      <label for="Password">Password</label>
+      <input type="password" class="form-control" id="Password" name="Password" placeholder="Enter password">
+  </div>
+  <span class="text-danger" asp-validation-for="Confirm"></span>
+  <div class="form-group">
+      <label for="Confirm">Password</label>
+      <input type="password" class="form-control" id="Confirm" name="Confirm" placeholder="Confirm password">
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
