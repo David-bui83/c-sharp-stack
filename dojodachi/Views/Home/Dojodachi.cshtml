@@ -1,0 +1,42 @@
+@{
+    ViewData["Title"] = "Dojodachi";
+}
+@model Dachi
+<div class="text-center">
+    <h3 >Fullness: @Model.Fullness Happiness: @Model.Happiness Meals: @Model.Meals Energy: @Model.Energy</h3>
+    <div class="jumbotron">
+        <h3>@Model.Name</h3>
+        <div style="width: 300px; height: 275px; border: 1px solid black; margin: auto;">
+            <img style="width:100%; display: block;" src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png" alt="squirtle">
+        </div>
+        <br>
+        <!-- <p>You played with your Dojodachi! Happiness +10, Energy -5</p> -->
+
+        @{
+            @if(ViewBag.gameOver == true)
+            {
+                <p>@ViewBag.msg</p>
+            }
+            else
+            {
+                <p>@Model.Msg</p>
+            }
+        }
+
+    </div>
+    @{
+        @if(ViewBag.gameOver == true)
+        {
+            <a class="btn btn-dark btn-lg" href="/reset">Reset</a>
+        }
+        else
+        {
+            <a class="btn btn-dark btn-lg" href="/feed/">Feed</a> 
+            <a class="btn btn-dark btn-lg" href="/play">Play</a> 
+            <a class="btn btn-dark btn-lg" href="/work">Work</a> 
+            <a class="btn btn-dark btn-lg" href="/sleep">Sleep</a>
+            <a class="btn btn-dark btn-lg" href="/reset">Reset</a>
+        }
+
+    }
+</div>

@@ -1,0 +1,24 @@
+@{
+  ViewData["Title"]="Mailbox Peak";
+}
+
+<a href="/" class="float-right">Go Home</a>
+<h1>Mailbox Peak</h1>
+<div class="row">
+  <div class="col-6">
+    <h2>Description</h2>
+    <p>@ViewBag.Trail.Description</p>
+    <h2>Trail Length:</h2>
+    <p>@ViewBag.Trail.Distance Miles</p>
+    <h2>Elevation Change</h2>
+    <p>@ViewBag.Trail.Elevation feet</p>
+
+  </div>
+  <div class="col-6">
+    <div style="width:100%;">
+      <img style="width: 100%; display: block;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmU-N-EpFRXcnXj2PpiuX6lLD0EpXBUSrTiBxJDFYqRGrNX0f8" alt="map">
+    </div>
+    <p>Longitude: @ViewBag.Trail.Longitude N</p>
+    <p>Latitude: @ViewBag.Trail.Latitude W</p>
+  </div>
+</div>

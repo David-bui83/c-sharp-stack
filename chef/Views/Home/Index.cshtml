@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewData["Title"] = "Chefs";
+    var tdate = DateTime.Today.Year;
+    <!-- int age = DateTime.Now.Year - DateTime.Parse(Chef.DOB).Year; -->
+}
+
+
+<a class="float-right" href="/new">Add a Chef</a>
+<h1 class="text-center">Chefs | <a href="/dishes">Dishes</a></h1>
+<h1 class="mt-5">Check out our roster of Chefs!</h1>
+<div class="mt-5" style="border-bottom: 2px solid black; width: 60%;">
+</div>
+<table class="table table-striped table-hover mt-5">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th># of Dishes</th>
+        </tr>
+    </thead>
+    <tbody>
+
+            @foreach(var chef in @Model)
+            {
+                <tr>
+                    <td>@chef.FirstName @chef.LastName</td>
+                    @{
+                        int age = DateTime.Now.Year - chef.DOB.Year;
+                    }
+                    <td> @age </td>
+                   <td>@chef.CreateDishes.Count</td>
+                </tr>
+            }
+    </tbody>
+</table>

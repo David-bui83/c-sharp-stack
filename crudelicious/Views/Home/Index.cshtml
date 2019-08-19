@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1 class="text-center mb-5">Welcome to CRUDelicious</h1>
+<a href="/new" class="float-right">Add a Dish</a>
+<h3>Check out some recent dishes!</h3>
+<hr class="my-4">
+@{
+    foreach(var recipe in @ViewBag.recipes)
+    {
+    <p><a href="view/@recipe.RecipeId">@recipe.Name</a> by @recipe.Chef</p>
+
+    }
+}

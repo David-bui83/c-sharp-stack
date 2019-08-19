@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "New";
+}
+<h1 class="text-center mb-5">Add a new Dish!</h1>
+<a href="/" class="mb-5">Home</a>
+@model Recipe
+<form asp-action="Create" method="POST" class="mt-5">
+    <div class="row">
+        <div class="col-4">
+            <span class=text-danger asp-validation-for="Chef"></span>
+            <div class="form-group">
+                <label asp-for="Chef">Chef's Name</label>
+                <input type="text" class="form-control" id="Chef" asp-for="Chef" placeholder="Enter Chef's name">
+            </div>
+            <span class=text-danger asp-validation-for="Name"></span>
+            <div class="form-group">
+                <label asp-for="Name">Name of Dish</label>
+                <input type="text" class="form-control" id="Name" asp-for="Name" placeholder="Enter dish">
+            </div>
+            <span class=text-danger asp-validation-for="Calories"></span>
+            <div class="form-group">
+                <label asp-for="Calories"># of Calories</label>
+                <input type="number" class="form-control" id="Calories" asp-for="Calories" placeholder="Enter calories">
+            </div>
+        </div>
+        <div class="col-4">
+            <span class=text-danger asp-validation-for="Tastiness"></span>
+            <div class="form-group">
+                <label asp-for="Tastiness">Tastiness</label>
+                <select class="form-control form-control-lg" asp-for="Tastiness">
+                    <option value="0"></option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </div>
+        </div>
+        <div class="col-4">
+            <span class=text-danger asp-validation-for="Description"></span>
+            <div class="form-group">
+                <label asp-for="Description">Description</label>
+                <textarea style="height:150px;" type="text" class="form-control" id="Description" asp-for="Description" placeholder="Enter description"></textarea>
+            </div>
+            <button type="submit" class="btn btn-dark btn-lg">Add Dish</button>
+        </div>
+    </div>
+</form>

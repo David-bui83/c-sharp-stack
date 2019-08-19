@@ -1,0 +1,21 @@
+<a href="/">Home</a>
+<div style="width: 65%; border-bottom: 2px solid black; margin: auto;">
+  <h1 class="text-center">@ViewBag.recipe.Name</h1>
+  <h3 class="text-center">@ViewBag.recipe.Chef</h3>
+</div>
+<div class="row mt-5">
+  <div class="col">
+    <p>A new twist on a classic favorite. Try with some french fries!</p><br>
+    <p><span class="font-weight-bold">Calories</span>: @ViewBag.recipe.Calories</p>
+    <p><span class="font-weight-bold">Tastiness</span>: @ViewBag.recipe.Tastiness</p>
+
+  </div>
+</div>
+<div class="row">
+  <div class="col text-center">
+    <a href="/delete/@ViewBag.recipe.RecipeId" class="btn btn-dark btn-lg text-danger">Delete</a>
+  </div>
+  <div class="col">
+    <a href="/edit/@ViewBag.recipe.RecipeId" class="btn btn-dark btn-lg">Edit</a>
+  </div>
+</div>

@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Quotes";
+}
+<h1>Here are the Awesome quotes!</h1>
+
+<div class="jumbotron">
+    @{
+            foreach(var user in @ViewBag.Users)
+            {
+                <p>@user["quote"]</p>
+                <p>- @user["name"] at @user["created_at"].ToString("hh:mm tt MMMM dd yyyy")</p>
+                <hr class="my-4">
+            }
+    }
+</div>
