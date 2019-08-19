@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Register";
+}
+<h1 class="display-4">@ViewData["Title"]</h1>
+<div class="row">
+    <div class="col-8">
+        <form class="mt-5" asp-action="" asp-controller="" method="POST">
+            <span class="text-danger"></span>
+            <div class="form-group row">
+                <label for="FirstName" class="col-sm-3 col-form-label">First Name</label>
+                <div class="col-sm-9">
+                    <input type="text" class="form-control" id="FirstName" placeholder="First name">
+                </div>
+            </div>
+            <span class="text-danger"></span>
+            <div class="form-group row">
+                <label for="LastName" class="col-sm-3 col-form-label">Last Name</label>
+                <div class="col-sm-9">
+                    <input type="text" class="form-control" id="LastName" placeholder="Last name">
+                </div>
+            </div>
+            <span class="text-danger"></span>
+            <div class="form-group row">
+                <label for="Email" class="col-sm-3 col-form-label">Email</label>
+                <div class="col-sm-9">
+                    <input type="email" class="form-control" id="Email" placeholder="Email">
+                </div>
+            </div>
+            <span class="text-danger"></span>
+            <div class="form-group row">
+                <label for="Password" class="col-sm-3 col-form-label">Password</label>
+                <div class="col-sm-9">
+                    <input type="password" class="form-control" id="Password" placeholder="Password">
+                </div>
+            </div>
+            <span class="text-danger"></span>
+            <div class="form-group row">
+                <label for="Confirm" class="col-sm-3 col-form-label">Confirm Password</label>
+                <div class="col-sm-9">
+                    <input type="password" class="form-control" id="Confirm" placeholder="Password">
+                </div>
+            </div>
+            <button type="submit" class="btn btn-dark btn-lg mt-3">Submit</button>
+        </form>
+    </div>
+    <div class="col-4"> 
+        <a style="margin-top: 270px; display: inline-block" href="/login">Already Register?</a>
+    </div>
+</div>

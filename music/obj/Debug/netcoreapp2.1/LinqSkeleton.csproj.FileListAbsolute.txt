@@ -1,0 +1,11 @@
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/MusicLinqSkeleton/bin/Debug/netcoreapp2.1/LinqSkeleton.deps.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/MusicLinqSkeleton/bin/Debug/netcoreapp2.1/LinqSkeleton.runtimeconfig.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/MusicLinqSkeleton/bin/Debug/netcoreapp2.1/LinqSkeleton.runtimeconfig.dev.json
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/MusicLinqSkeleton/bin/Debug/netcoreapp2.1/LinqSkeleton.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/MusicLinqSkeleton/bin/Debug/netcoreapp2.1/LinqSkeleton.pdb
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/MusicLinqSkeleton/obj/Debug/netcoreapp2.1/LinqSkeleton.csprojAssemblyReference.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/MusicLinqSkeleton/obj/Debug/netcoreapp2.1/LinqSkeleton.csproj.CoreCompileInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/MusicLinqSkeleton/obj/Debug/netcoreapp2.1/LinqSkeleton.AssemblyInfoInputs.cache
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/MusicLinqSkeleton/obj/Debug/netcoreapp2.1/LinqSkeleton.AssemblyInfo.cs
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/MusicLinqSkeleton/obj/Debug/netcoreapp2.1/LinqSkeleton.dll
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/MusicLinqSkeleton/obj/Debug/netcoreapp2.1/LinqSkeleton.pdb
