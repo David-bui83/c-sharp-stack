@@ -28,3 +28,5 @@
 /Users/davidbui/Desktop/stack_projects/c-sharp-stack/bank/obj/Debug/netcoreapp2.2/bank.dll
 /Users/davidbui/Desktop/stack_projects/c-sharp-stack/bank/obj/Debug/netcoreapp2.2/bank.pdb
 /Users/davidbui/Desktop/stack_projects/c-sharp-stack/bank/obj/Debug/netcoreapp2.2/bank.csproj.CopyComplete
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/bank/obj/Debug/netcoreapp2.2/Razor/Views/Home/Success.g.cshtml.cs
+/Users/davidbui/Desktop/stack_projects/c-sharp-stack/bank/obj/Debug/netcoreapp2.2/Razor/Views/Home/TransactionPartial.g.cshtml.cs

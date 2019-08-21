@@ -1,0 +1,12 @@
+@model Transaction
+<form asp-action="Transaction" asp-controller="Home" method="POST">
+  <div class="form-group row">
+    <label asp-for="Amount" class="col-sm-3 col-form-label">Deposit/Withdraw:</label>
+    <div class="col-sm-9">
+      <span class="text-danger" asp-validation-for="Amount"></span>
+      <input asp-for="AccountId" type="hidden">
+      <input asp-for="Amount" type="number" class="form-control" id="inputPassword" placeholder="Amount">
+      <button type="submit" class="btn btn-dark btn-lg mt-3">Submit</button>
+    </div>
+  </div>
+</form>

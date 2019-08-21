@@ -2943,6 +2943,11 @@
   "RootNamespace": "bank",
   "Documents": [
     {
+      "FilePath": "Views/Home/Success.cshtml",
+      "TargetPath": "Views/Home/Success.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views/Home/Login.cshtml",
       "TargetPath": "Views/Home/Login.cshtml",
       "FileKind": "mvc"
@@ -2980,6 +2985,11 @@
     {
       "FilePath": "Views/Shared/_Layout.cshtml",
       "TargetPath": "Views/Shared/_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Home/TransactionPartial.cshtml",
+      "TargetPath": "Views/Home/TransactionPartial.cshtml",
       "FileKind": "mvc"
     }
   ],
