@@ -1,0 +1,13 @@
+@model Association
+<form asp-action="ProductAddCat" controller="Home" asp-route-ProductId="@ViewBag.pro.ProductId" method="POST" >
+      <select asp-for="CategoryId" class="form-control">
+        @{
+          foreach(var cat in ViewBag.cats)
+          {
+            <option asp-for="CategoryId" value="@cat.CategoryId">@cat.CName</option>
+          }
+        }
+      </select>
+      <button type="submit" class="btn btn-dark btn-lg mt-4">Add</button>
+    </form>
+

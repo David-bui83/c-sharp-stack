@@ -110,7 +110,7 @@ namespace bank.Controllers
                 else
                 {
                     acc.Balance += (decimal)trans.Amount;
-                    trans.AccountId = acc.AccountId;
+                    // trans.AccountId = acc.AccountId;
                     dbContext.Transactions.Add(trans);
                     dbContext.SaveChanges();
                     return RedirectToAction("Success",new {id=acc.AccountId});
